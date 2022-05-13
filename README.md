@@ -12,7 +12,7 @@
 
 ## 👨‍👦 Member
 - 배준현 : 데이터 분석, 스토리 작성
-- 김동욱 : 가명처리
+- 차광호 : 가명처리
 
 ## 🔎 Installation
 - Google Colab
